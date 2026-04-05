@@ -1,0 +1,8 @@
+path: C:/Users/90554/OneDrive/Masaüstü/kalem_dataset.1
+train: train/kursun
+val: val/tukenmez
+
+nc: 2
+names:
+  0: kursun
+  1: tukenmez

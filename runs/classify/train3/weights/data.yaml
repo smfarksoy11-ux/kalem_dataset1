@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['tukenmez-kalem']
+
+roboflow:
+  workspace: nesne-alglama-wbcmt
+  project: tukenmez
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nesne-alglama-wbcmt/tukenmez/dataset/1
